@@ -1,0 +1,7 @@
+This is just a demonstration file. Its contents are rather... well... for
+demonstration purposes, so really, what do you expect? We could begin quoting
+Shakespeare, but for now, I'll leave it as is.
+
+You could add some more content to this file and commit the changes, probably
+one change after the other, to see what Git does with it and how it affects
+the history.
